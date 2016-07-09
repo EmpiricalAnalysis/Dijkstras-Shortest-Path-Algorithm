@@ -1,10 +1,6 @@
 bin/
 .settings/
 .classpath
-<<<<<<< HEAD
 .project
 dijkstra_test_case_solution.txt
 dijkstra.pdf
-=======
-.project
->>>>>>> 618abf7b1589f28cf96c52030c57df0e5091b4b3
